@@ -4,13 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>spring-rest-employee</artifactId>
+    <artifactId>spring-rest-ppm</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>spring-rest-employee</name>
+    <name>spring-rest-ppm</name>
 
     <build>
-        <finalName>spring-rest-employee</finalName>
+        <finalName>spring-rest-ppm</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
